@@ -25,7 +25,7 @@ Results-driven Software Engineer with proven expertise in full-stack development
 
 ## Education
 
-**Launch School** | 2023 – 2025  
+**Launch School** | 2023 – present
 *Software Engineering*  
 - GPA: 3.9  
 
@@ -42,32 +42,42 @@ Results-driven Software Engineer with proven expertise in full-stack development
 
 **Launch School** | 2025 – Present  
 *Spot Leader (Remote)*  
-- Led group sessions teaching Object-Oriented Programming and Networking Fundamentals, reinforcing system-level problem solving and software design skills.  
-- Taught core OOP concepts (abstraction, inheritance, polymorphism, encapsulation) and networking protocols (TCP/UDP, ICP, HTTP).  
-- Strengthened technical communication and leadership by guiding peers through complex algorithms, protocols, and live coding challenges.  
+- Led weekly group sessions teaching Object-Oriented Programming and Networking Fundamentals, reinforcing system-level problem
+solving and software design skills for 30+ students.
+- Responsible for teaching core OOP concepts (abstraction, inheritance, polymorphism, encapsulation) and networking protocols
+(TCP/UDP, ICP, HTTP).
+- Strengthened technical communication and leadership by guiding peers through complex algorithms, protocols, and live coding
+challenges.
 
 **MyAddictionBuddy** | 2020 – 2022  
 *Fullstack Developer (Denver, CO)*  
-- Led frontend development initiatives for a healthcare startup focused on addiction treatment solutions, resulting in a streamlined user experience and increased platform adoption.  
-- Developed responsive user interfaces using React, improving user engagement and accessibility.  
-- Collaborated with cross-functional teams including designers, backend developers, and stakeholders to enhance project alignment, leading to a 20% reduction in development time.  
-- Bridged communication between technical and non-technical teams to ensure timely MVP delivery, improving project efficiency and stakeholder satisfaction.  
+- Led frontend development initiatives for a healthcare startup focused on addiction treatment solutions, resulting in a streamlined user
+experience and increased platform adoption; 100+ users within 4 clinics.
+- Collaborated with cross-functional teams including designers, backend developers, and stakeholders to enhance project alignment,
+leading to a 20% reduction in development time and bridged communication between technical and non-technical teams to ensure
+timely MVP delivery, which improved project efficiency and stakeholder satisfaction.
 
 ---
 
 ## Projects
 
+**CMS** | [GitHub](https://github.com/nash226/cms) | 2025
+- Designed and implemented a full-stack content management system (CMS) using Python (Flask) for backend logic, user authenti-
+cation, and role-based access control.
+- Built responsive frontend templates with HTML/CSS for document management, editing, and file upload, integrating dynamic
+content rendering with Jinja2.
+- Managed dependencies with Poetry and wrote ~80% unit test coverage, reducing bug rates by ~20% over initial versions and ensuring
+maintainability, and implemented secure password handling with bcrypt.
+
 **Flask To-Do** | [GitHub](https://github.com/nash226/Flask_to-do) | 2025  
-- Built a full-stack to-do list web application with Flask, Jinja2, JavaScript, HTML, and CSS.  
-- Implemented backend CRUD functionality with Flask routes and data models, including bulk task completion and dynamic URL handling.  
-- Enhanced interactivity with JavaScript, streamlining task completion and improving user experience.  
+- Designed a full-stack to-do list web application with Python, Flask, Jinja2, JavaScript, HTML, and CSS, enabling users to create,
+edit, complete, and delete tasks through a clean and responsive interface.
+- Implemented backend CRUD functionality with Flask routes and data models, including bulk task completion and dynamic URL
+handling for scalable task management.
+- Enhanced interactivity with JavaScript, streamlining task completion and improving the overall user experience for end users.
+- Deployed to production using Render, enabling live access and testing in a cloud environment. 
 
-**Asteroids** | [GitHub](https://github.com/nash226/asteroids) | 2025  
-- Built a fully functional clone of the classic arcade game using Python and Pygame.  
-- Implemented object-oriented design with reusable classes.  
-- Developed collision detection, physics for movement/rotation, and game loop logic.  
+**Asteroids** | [GitHub](https://github.com/nash226/asteroids) | 2024 
+- Designed a fully functional clone of the classic arcade game using Python and Pygame.  
+- Implemented object-oriented design with reusable classes, collision detection, physics for movement/rotation, and game loop logic.  
 
-**BookBot** | [GitHub](https://github.com/nash226/bookbot) | 2024  
-- Developed a Python-based text analysis tool that parses books and generates statistical insights on character frequency and usage.  
-- Implemented modular design with functions for text extraction, character counting, and sorting, ensuring scalability and maintainability.  
-- Built CLI-based reporting with clean summaries for fast analysis and readability.  
