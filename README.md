@@ -10,11 +10,6 @@
 
 ---
 
-## Professional Summary
-Results-driven Software Engineer with proven expertise in full-stack development, backend systems, and automation engineering. Skilled in Python, Flask, Django, React, and API integrations, with a track record of delivering high-performance, scalable, and production-ready applications.
-
----
-
 ## Technical Skills
 - **Programming Languages:** Python, JavaScript, Golang, TypeScript  
 - **Frameworks & Libraries:** React, Django, TensorFlow, PyTorch, Flask  
@@ -78,6 +73,6 @@ handling for scalable task management.
 - Deployed to production using Render, enabling live access and testing in a cloud environment. 
 
 **Asteroids** | [GitHub](https://github.com/nash226/asteroids) | 2024 
-- Designed a fully functional clone of the classic arcade game using Python and Pygame.  
-- Implemented object-oriented design with reusable classes, collision detection, physics for movement/rotation, and game loop logic.  
+- Designed a fully functional clone of the classic arcade game using Python and Pygame.
+- Implemented object-oriented design with reusable classes, collision detection, physics for movement/rotation, and game loop logic.
 
